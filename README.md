@@ -1,4 +1,4 @@
-# web-development-guide
+# Web Development Guide
 A collection of helpful resources available on the web to have a bright career in Web Development. 
 
 ## Contents
