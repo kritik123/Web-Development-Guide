@@ -99,21 +99,6 @@ button {
 }
 
 
-/* Interactive coding tutorials section */
-
-.ict-section {
-    background-color: #f4f4f4;
-}
-
-.ict-section button {
-    border: 1px solid #431F11;
-}
-
-.ict-section button:hover {
-    background-color: #431F11;
-}
-
-
 /* Interactive development environment section */
 
 .ide-section {
@@ -147,7 +132,7 @@ button {
 /* Interactive coding tutorials section */
 
 .ict-section {
-    background-color: #6A4A3C;
+    background-color: #f4f4f4;
 }
 
 .ict-section button {
